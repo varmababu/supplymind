@@ -1,0 +1,31 @@
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Data files
+data/raw/
+data/cleaned/
+
+# Models
+*.pkl
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment variables
+.env
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+# Generated plots
+reports/figures/**
+
+# Keep folders
+!reports/figures/.gitkeep
+!reports/insights/.gitkeep
