@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # SupplyMind
 
 A supply chain & retail analytics project covering inventory management, retail sales, logistics, and procurement/delivery data. The project moves through exploratory data analysis (EDA) and cleaning across six datasets in a recommended order, building toward unified supply chain insights.
@@ -85,3 +86,6 @@ Each dataset follows the same pattern:
 
 - Raw data files are currently empty placeholders generated for the folder scaffold — replace them with your actual data files before running notebooks/scripts.
 - `data/raw/`, `data/cleaned/`, and `reports/figures|insights` contents are gitignored by default (only `.gitkeep` is tracked) so large/raw data doesn't bloat version control.
+=======
+# supplymind
+>>>>>>> 0f50521b21d810e0104d10723553ecfca6be76d7
